@@ -79,6 +79,3 @@ My user-centered approach to development ensures that all technical decisions ar
 </div>
 
 --- 
-
-
-
